@@ -1,0 +1,26 @@
+img{
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    margin-top: 20px;
+    margin-right: 10px;
+}
+img:hover{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+body{
+    background-color:whitesmoke;
+    background-image: url('rps.jpg');
+}
+.table
+{
+    align-items: center;
+
+}
+.divi
+{
+    width: 500px; 
+    margin-top: 30px; 
+    background-color: aliceblue;
+    border-radius: 10%;
+}
